@@ -1,0 +1,9 @@
+#pragma once
+
+/* major / minor and patch version are integers so
+ * no need for quotes. VERSION is a string X.X.X
+ * so quotes needed there. */
+#define VERSION_MAJOR @MAJOR_VERSION@
+#define VERSION_MINOR @MINOR_VERSION@
+#define VERSION_PATCH @PATCH_VERSION@
+#define VERSION "@SOFTWARE_VERSION@"
