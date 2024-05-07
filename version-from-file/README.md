@@ -27,7 +27,7 @@ $ cmake -GNinja ..
 -- Detecting CXX compile features - done
 -- Configuring done (1.1s)
 -- Generating done (0.0s)
--- Build files have been written to: C:/Users/AdrienMartin/Documents/99-Perso/CMake-examples/version-from-file/build
+-- Build files have been written to: xxx
 $ ninja
 [2/2] Linking CXX executable pgm.exe
 $ ./pgm
